@@ -1,5 +1,11 @@
 # Documento de talleres....
 
+## **1)** En `config.tf`, podra encontrar el codigo del primer taller sobre **EC2**.
+## **2)** En la carpeta `/aws-lambda-crud` se realizo el ultimo taller con serverless framework, la documentacion esta `TALLER CLOUD FINAL.pdf`
+## **3)** La actividad solicitada sin serverless framework y utilizando framework la puede encontrar en `proyecto-terraform` la documentacion es `DOCUMENTACION PROYECTO.pdf`
+
+
+
 # 1) LaboratorioEC2
 
 Estudiante: William Andres Yaruro Cuan
